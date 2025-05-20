@@ -1,0 +1,19 @@
+body { 
+  line-height: 1.4;
+  font-size: 16px;
+  padding: 0 10px;
+  margin: 50px auto;
+  max-width: 650px;
+  font-family: Georgia, serif;
+  background-color: #e6f3ff; /* Light blue background */
+  color: #333; /* Dark grey text */
+}
+
+#maincontent {
+  max-width:42em;
+  margin:15 auto;
+}
+
+a {
+  color: #0066cc; /* Blue links */
+}
